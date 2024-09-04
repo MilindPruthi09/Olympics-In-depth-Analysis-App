@@ -9,6 +9,4 @@
 <p>Kaggle Dataset: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results</p>
 
 <h3>Features of app:</h3>
-<p>1.https://github.com/user-attachments/assets/e59bb1ab-8b01-48fc-93a6-781db9c69bec
 
-</p>
