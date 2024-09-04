@@ -10,3 +10,4 @@
 
 <h3>Features of app:</h3>
 
+![medal tally](https://github.com/user-attachments/assets/e59bb1ab-8b01-48fc-93a6-781db9c69bec)
