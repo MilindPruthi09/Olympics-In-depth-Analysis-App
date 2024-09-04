@@ -9,6 +9,5 @@
 <p>Kaggle Dataset: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results</p>
 
 <h3>Features of app:</h3>
-<p>1. Medal Tally:![medal tally](https://github.com/user-attachments/assets/0f82cd81-8f46-49c3-acb5-554f8774a201)
-
+<p>1.
 </p>
